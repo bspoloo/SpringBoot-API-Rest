@@ -17,6 +17,5 @@ public class Paciente {
 
     @Column(name = "email", unique = true)
     private String email;
-
     // Getters y setters
 }
